@@ -1,6 +1,7 @@
 # pay_flow
 
-Aplicativo para gerenciar boletos
+Aplicativo para gerenciar boletos.
+Este aplicativo é um projeto desenvolvido do programa na NLW6 da RocketSeat. 
 
 ## Getting Started
 
